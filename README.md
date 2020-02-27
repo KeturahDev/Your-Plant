@@ -1,12 +1,12 @@
-# Deafeat Sphinx
+# Your Plant
 
-#### _C# Week One Practice _24th Feb. 2020_
+#### _C# Week One Practice _27th Feb. 2020_
 
-#### By _**Keturah Howard, Geoff Goetz **_
+#### By _**Keturah Howard, Patric Kille **_
 
 ## Description
 
-Solve the riddles, or be eaten! Sphinx will give you riddles, answer all of them, and you win.
+Get a plant, manage it, or it will be unhealthy.
 
 ## Specifications:
 
@@ -14,7 +14,6 @@ Solve the riddles, or be eaten! Sphinx will give you riddles, answer all of them
 | Specification | Example Input | Example Output |
 | :------------- |:-------------| :-------------------|
 | Feed/ water/ sunlight plant every round | *say all these things then press next day button* | "plant has grown" |
-| Feed/ water/ sunlight more than 3 or less than one | *over feed under feed* | "plant is same size and unhealthy" |
 | Feed/ water/ sunlight more than 3 or less than one | *over feed under feed* | "plant is same size and unhealthy" |
 
 
@@ -48,4 +47,4 @@ This HTML web page is licensed under the MIT license.
 
 ## Copyright
 
-Copyright (c) 2020 Keturah Howard, Geoff Goetz.
+Copyright (c) 2020 Keturah Howard, Patric Kille.
